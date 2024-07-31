@@ -1,0 +1,7 @@
+{
+  "email": "malta.user@example.com",
+  "password": "s3cretPl4ce",
+  "false_password": "blabla",
+  "invalid_email": "contact",
+  "invalid_password": "bla"
+}

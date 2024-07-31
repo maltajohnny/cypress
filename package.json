@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Personal Project in Cypress, performed E2E, API and Visual Regression Tests with PERCY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOHNNY MALTA",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "cypress": "^12.14.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
